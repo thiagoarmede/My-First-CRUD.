@@ -1,5 +1,5 @@
 # Minha primeira aplicação CRUD com Node.js
-Minha primeira aplicação CRUD(create, read, update, delete) apenas para praticar os conhecimentos básicos de NodeJS.
+Minha primeira aplicação CRUD(create, read, update, delete) apenas para praticar os conhecimentos básicos de NodeJS que basicamente, executa as operações citadas acima sobre um elemento com nome e ID no banco de dados MySQL.
 
 ## Instalação e execução
 
